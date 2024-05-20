@@ -1,5 +1,3 @@
-# Capstone-Disign(2023-1~2)
+# DeepFake Detection (2023.04. - 2023.09.)
 
-  캡스톤디자인 졸업 프로젝트
-
-    - Deepfake 영상의 AI 분석을 통한 탐지 서비스
+- Deepfake 영상의 AI 분석을 통한 탐지 서비스
