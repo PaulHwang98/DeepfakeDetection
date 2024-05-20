@@ -17,7 +17,8 @@
 
 ![image](https://github.com/PaulHwang98/DeepfakeDetection/assets/164970413/ab7c9043-d32e-4918-bb5b-4c6918d04cd3)
 
-백엔드 프레임워크로는 Django를 사용하였습니다.
+백엔드 프레임워크로 Django를 사용하였습니다.
+
 --- 
 # 데이터 셋
 AIHub의 한국인 딥페이크 변조 영상에서 프레임을 캡쳐하여 원본 이미지 25,000장, 변조 이미지 25,000장을 학습 및 검증 데이터로 사용하였습니다.
