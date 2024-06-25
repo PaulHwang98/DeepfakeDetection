@@ -23,5 +23,4 @@
 # 데이터 셋
 AIHub의 한국인 딥페이크 변조 영상에서 프레임을 캡쳐하여 원본 이미지 25,000장, 변조 이미지 25,000장을 학습 및 검증 데이터로 사용하였습니다.
 - https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=55
---- 
-# 모델
+
